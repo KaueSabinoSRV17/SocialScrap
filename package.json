@@ -1,0 +1,26 @@
+{
+  "name": "socialscrap",
+  "version": "1.0.0",
+  "description": "Web Scrapper that populates data about someone from their socia media links",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaueSabinoSRV17/SocialScrap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaueSabinoSRV17/SocialScrap/issues"
+  },
+  "homepage": "https://github.com/KaueSabinoSRV17/SocialScrap#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.48.1",
+    "@typescript-eslint/parser": "^5.48.1",
+    "eslint": "^8.31.0",
+    "vitest": "^0.27.1"
+  }
+}
